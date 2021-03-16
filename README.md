@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Victorman5
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on some project
+- 📫 How to reach me? 
