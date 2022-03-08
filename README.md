@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vityaman
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me? 
+
+- 🐱‍👤 @vityaman
+- 🙎‍♂️ Smirnov Victor
+- 👨‍🎓 ITMO University
+- 👨‍💻 Java, Python, C++
