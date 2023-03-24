@@ -1,3 +1,6 @@
-Hello!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vityaman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Currently I'm interested in **Compilers** and learing **C++**.
+
+Here you can find my educational projects: https://github.com/vityaman-edu.
+
+Have experience using **Java**, **Scala**, **ZIO**, **TypeScript**, **React**, **NestJS**.
