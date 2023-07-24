@@ -1,5 +1,5 @@
 
-Currently I'm interested in **Compilers** and learing **C++**.
+Currently I'm interested in **Compilers** and learing **C++**, **Rust**.
 
 Here you can find my educational projects: https://github.com/vityaman-edu.
 
